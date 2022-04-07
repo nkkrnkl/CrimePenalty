@@ -7,7 +7,7 @@ A/B testing is a form of hypothesis testing that allows you to make comparisons 
 
 If the null hypothesis of an A/B test is correct, then even if the order of the labels are shuffled it would not affect the differences in means between each group. By randomizing the data and creating multiple simulations we can compare it to the initial outcome to determin the "fairness" of a claim.
 
-Murder Rates
+Murder Rates:
 
 Punishment for crime has many philosophical justifications. An important one is that fear of punishment may deter people from committing crimes.
 
@@ -19,7 +19,7 @@ Through this exploration, does instituting a death penalty for murder actually r
 
 Different sides have variously argued that the death penalty has no deterrent effect and that each execution prevents 8 murders, all using statistical arguments!
 
-The data
+The data:
 
 The main data source for this data analysis comes from a paper by three researchers, Dezhbakhsh, Rubin, and Shepherd. The dataset contains rates of various violent crimes for every year 1960-2003 (44 years) in every US state. The researchers compiled the data from the FBI's Uniform Crime Reports.
 
